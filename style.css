@@ -12,10 +12,10 @@ body, html {
     background-color: yellow;
     color: black;
     border: none;
-    border-radius: 12px;
     font-size: 60px;
-    width: 20%;
-    height: 20%;
     justify-content: center;
     align-items: center;
+    order-radius: 50%; /* Macht den Button rund */
+    width: 100px; /* Passe die Breite nach Bedarf an */
+    height: 100px; /* Passe die Höhe nach Bedarf an */
 }
