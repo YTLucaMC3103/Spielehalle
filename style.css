@@ -15,7 +15,7 @@ body, html {
     font-size: 60px;
     justify-content: center;
     align-items: center;
-    order-radius: 50%; /* Macht den Button rund */
+    border-radius: 50%; /* Macht den Button rund */
     width: 100px; /* Passe die Breite nach Bedarf an */
     height: 100px; /* Passe die Höhe nach Bedarf an */
 }
